@@ -1,3 +1,5 @@
+//Created by Jacek Barć & Radosław Loth
+
 #ifndef CRUD_LIBRARY_H
 #define CRUD_LIBRARY_H
 
